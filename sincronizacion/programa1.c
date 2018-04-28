@@ -1,3 +1,4 @@
+//eliminamos los acentos. 
 
 /* universidad de los andes
  * sincronizacion de procesos
